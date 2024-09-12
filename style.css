@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  background-image: url("img/Background.jpg");
+  background-position: center;
+  padding-top: 15rem;
+  color: #dbe5e7;
+}
+.benefit-icon {
+  font-size: 48px;
+  color: #148a92;
+}
+
+#product {
+  padding-top: 6rem;
+}
+
+.gallery-section {
+  padding-top: 6rem;
+}
+
+.hubungikami-section {
+  padding-top: 6rem;
+}
+.card {
+  width: 22rem;
+}
+
+.galeri {
+  width: 22rem;
+}
